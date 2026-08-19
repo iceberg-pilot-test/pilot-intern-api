@@ -1,5 +1,5 @@
 # Bu dosya Terraform tarafından üretilmiştir — elle düzenlemeyin.
-# Kaynak: config/organization.yml
+# Kaynak: config/repositories/pilot-intern-api.yml (mentors, code_owners)
 
 # Varsayılan sahiplik · Default ownership
 *                       @iceberg-pilot-test/pilot-intern-api-mentors
